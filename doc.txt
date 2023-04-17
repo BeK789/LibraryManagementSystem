@@ -1,0 +1,7 @@
+The admin should have control of every entry, students can only view whatever I mentioned above
+
+And about the library part,If possible create another libraian panel so that we can access the book from there
+
+Student will request for a particular book and the librarian will accept or decline the request
+
+Give a college name xyz type in the page of the website
